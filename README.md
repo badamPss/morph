@@ -35,7 +35,7 @@ pip install pymorphy2
 
 Запустите анализатор:
 ```bash
-python cli.py
+python3 cli.py
 ```
 
 Введите слово для анализа. Для выхода введите 'stop'.
